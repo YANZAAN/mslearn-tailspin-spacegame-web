@@ -1,3 +1,7 @@
+# Tailspin Spacegame Example Web App
+
+This is a fork of an original Microsoft Tailspin Spacegame repository.  
+This text occurs as part of checking so this file excluded from Azure triggers.
 
 # Contributing
 
