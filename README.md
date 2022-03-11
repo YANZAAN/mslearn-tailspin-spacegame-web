@@ -1,5 +1,7 @@
 # Tailspin Spacegame Example Web App
 
+[![Build Status](https://dev.azure.com/yanzaan/Space%20Game%20-%20web%20-%20Workflow/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/yanzaan/Space%20Game%20-%20web%20-%20Workflow/_build/latest?definitionId=2&branchName=main)
+
 This is a fork of an original Microsoft Tailspin Spacegame repository.  
 This text occurs as part of checking so this file excluded from Azure triggers.
 
